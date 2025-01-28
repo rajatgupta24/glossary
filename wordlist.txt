@@ -20,6 +20,7 @@ bracex
 brømsø
 bursty
 bvs
+bytecode
 caas
 capex
 caret
@@ -29,6 +30,8 @@ cd
 cdn
 changelog
 chatbot
+cgroup
+cgroups
 cio
 cka
 ckad
@@ -36,6 +39,7 @@ cks
 cncf
 cncf's
 codebase
+codebases
 codefences
 config
 cpu
@@ -46,6 +50,7 @@ customizable
 cyber
 daniel
 datacenter
+datacenters
 datadog
 dba
 dbaas
@@ -65,6 +70,7 @@ digitalocean
 dockerfile
 dockerhub
 docstrings
+eBPF
 edumco
 emoji
 engineerbetter
@@ -88,6 +94,7 @@ gmail
 gmail's
 hackable
 handoffs
+HAProxy
 highlight
 html
 http
@@ -95,6 +102,7 @@ https
 iaas
 iac
 idempotence
+ies
 impactful
 inelasticity
 inlinehilite
@@ -106,6 +114,7 @@ jihoon
 jonasbn
 jones
 josé
+js
 katelin
 keda
 keys
@@ -129,17 +138,23 @@ mkdn
 mtls
 multitenancy
 multitenant
+namespace
+namespaces
 navbar
+Nginx
 observability
 oci
 oliveira
 opencontainers
 orchestrator
+orchestrators
 overdemand
+overprivileged
 paas
 pathconverter
 pavel
 pavelskipenes
+performant
 pre
 prem
 programmatically
@@ -150,6 +165,7 @@ py
 pypi
 pyspelling
 ramer
+RBAC
 rdbms
 readme
 replicable
@@ -160,6 +176,7 @@ runtime
 runtimeerror
 runtimes
 saas
+sandboxed
 saneheaders
 sbates
 scalability
@@ -188,6 +205,7 @@ tilde
 tls
 tmp
 toolchain
+Traefik
 transcodes
 txt
 ubuntu
@@ -196,12 +214,16 @@ unencrypted
 utf
 valueerror
 vcs
+verifications
+verifier
 virtualized
 virtualizing
 vm
 vms
 volkman
+wasm
 wcmatch
+webassembly
 wifi
 wordlist
 wordlists
@@ -217,3 +239,7 @@ TCP
 TCP/IP
 UDP
 HTTP/3
+CLI
+CLIs
+SDK
+SDKs

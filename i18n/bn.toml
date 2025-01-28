@@ -18,9 +18,23 @@ other = "এই সাইট খোঁজ করুন…"
 [ui_in]
 other = "ভিতরে"
 
-# Used in sentences such as "All Tags"
-[ui_all]
-other = "সব"
+# Phrases for tags
+[ui_see_all_tags]
+other = "সব ট্যাগ দেখুন"
+[ui_tag]
+other = "ট্যাগ"
+[ui_tags]
+other = "ট্যাগ"
+[ui_search_by_tags]
+other = "ট্যাগ দ্বারা ব্রাউজ করুন"
+[ui_tags_intro]
+other = "আমরা শব্দকোষ পদগুলোকে শ্রেণীবদ্ধ করেছি। ট্যাগ দ্বারা পদগুলো ব্রাউজ করতে ফিল্টার ব্যবহার করুন।"
+[ui_or_search_by_tags]
+other = "...অথবা ট্যাগ দ্বারা ব্রাউজ করুন"
+[ui_select_all]
+other = "সব গুলো নির্বাচিত করুন"
+[ui_deselect_all]
+other = "সব গুলো অনির্বাচিত কর"
 
 # Footer text
 [footer_all_rights_reserved]
@@ -29,6 +43,9 @@ other = "সমস্ত অধিকার সংরক্ষিত"
 [footer_privacy_policy]
 other = "গোপনীয়তা নীতি"
 
+
+[footer_hub_button_text]
+other = "All CNCF Sites"
 
 # Post (blog, articles etc.)
 [post_byline_by]
