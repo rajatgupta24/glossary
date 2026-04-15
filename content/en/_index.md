@@ -37,14 +37,14 @@ For a complete contributor list, please refer to [this GitHub page](https://gith
 
 The Glossary is maintained by
 [Seokho Son](https://www.linkedin.com/in/seokho-son/),
-[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/),
 [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
 [Nate W.](https://www.linkedin.com/in/nate-double-u/)
 and [Junya Okabe](https://www.linkedin.com/in/junya-okabe/).
 
 [Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/) and
-[Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/)
+[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/),
+[Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/), and
+[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/)
 are Emeritus Maintainers, and we are deeply grateful
 for their invaluable contributions over the years.
 
